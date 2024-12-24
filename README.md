@@ -2,7 +2,7 @@
 
 # Info
 
-The update (collaboration) has ended, and the previous version of the game has returned. Accordingly, the code and templates have been updated. The code works stably and well.
+Due to the Christmas update, the templates have been changed. The program code has been modified and is working correctly. With its help, you can score at least 800 points
 
 ## Description
 This project is an automatic clicker for the Blum.
