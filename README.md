@@ -19,7 +19,7 @@ Please consider the following before using this tool:
 The author of this tool is not responsible for any consequences related to its use.
 
 ## Download and Setup 
- * git clone [https://github.com/yankkv17/blum-clicker](https://github.com/yankkv17/blum-clicker)
+ * git clone [https://github.com/yankkvx/blum-clicker.git](https://github.com/yankkvx/blum-clicker.git)
  * Create virtual environment: python -m venv venv
  * venv/scripts/activate
  * pip install -r requirements.txt
